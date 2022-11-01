@@ -8,7 +8,9 @@ Original file is located at
 """
 
 """
-This is an attempt to predict the solution of a first order ODE using a neural network. The work is inspired by: http://dx.doi.org/10.1109/72.712178
+This is an attempt to predict the solution of a first order ODE using a neural network. 
+
+The work is inspired by: http://dx.doi.org/10.1109/72.712178
 """
 
 import tensorflow as tf
