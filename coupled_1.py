@@ -7,6 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/1RXeV0b3M1XdAwD-RTr2JsycaLT8Svo_p
 """
 
+"""
+This is an attempt to predict the solution of a pair of coupled differential equations using a neural network. 
+
+The work is inspired by: http://dx.doi.org/10.1109/72.712178
+"""
+
 import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
